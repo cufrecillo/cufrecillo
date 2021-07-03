@@ -2,8 +2,7 @@
 
 ⚡ Este sera mi "diario de codigo" y poco a poco ira evolucionando... 😄😄😄
 
-<img src="C:\Users\Rober\Desktop\pantallazos\goku.png" alt="My cool logo"/>
-
+![image](https://user-images.githubusercontent.com/50523913/124367653-8b2b4180-dc59-11eb-9945-eb544e0a5542.png)
 
 <!--
 **cufrecillo/cufrecillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
